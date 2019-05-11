@@ -1,0 +1,24 @@
+.col-centered{
+   float: none;
+   margin: 0 auto;
+}
+
+
+.carousel-item img{
+  min-width: 100%;
+  height: 500px;
+  max-width: none;
+}
+
+body {
+    background: url("/images/projectsBackground.png") repeat;
+}
+
+
+
+
+
+.projectCard {
+    width: 800px;
+    margin: auto;
+}

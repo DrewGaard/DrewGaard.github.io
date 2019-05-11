@@ -1,0 +1,37 @@
+/*.footer {*/
+/*    position: fixed;*/
+/*    width: 100%;*/
+/*    bottom: 0;*/
+/*}*/
+
+.navIcon {
+    margin-right: 20px;
+    margin-left: 15px;
+}
+
+.uopPic {
+    border-radius: 100px;
+}
+
+.lpImage {
+    width: 100%;
+    border-radius: 10%;
+    display: block;
+    max-width:600px;
+    max-height:600px;
+    height: auto;
+}
+
+.violin {
+    width: 100%;
+    border-radius: 10%;
+    margin: 0 auto;
+    margin-top: 75px;
+}
+
+.gym {
+    width: 100%;
+    border-radius: 10%;
+    margin: 0 auto;
+    margin-top: 75px;
+}

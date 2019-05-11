@@ -1,0 +1,41 @@
+.parallax { 
+      /* The image used */
+      background-image: url("/images/jumboBackground.png");
+    
+      /* Set a specific height */
+      height: 625px; 
+    
+      /* Create the parallax scrolling effect */
+      background-attachment: fixed;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+}
+
+.card-img-top {
+    height: 300px;
+    border: none;
+}
+
+.mainCard {
+    background-image: url("/images/cardBackground.png");
+    -webkit-box-shadow: 0 8px 6px -6px black;
+	   -moz-box-shadow: 0 8px 6px -6px black;
+	        box-shadow: 0 8px 6px -6px black;
+	border: none;
+}
+
+.aboutMe {
+    margin-top: 225px;
+}
+
+.aboutMe p {
+    margin-top: 10px;
+    text-indent: 2.0em;
+}
+
+.bottomRight {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
