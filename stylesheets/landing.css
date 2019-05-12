@@ -1,4 +1,4 @@
-.parallax { 
+/* .parallax { 
       /* The image used */
       background-image: url("/images/jumboBackground.png");
     
@@ -10,7 +10,7 @@
       background-position: center;
       background-repeat: no-repeat;
       background-size: cover;
-}
+} */
 
 .card-img-top {
     height: 300px;
