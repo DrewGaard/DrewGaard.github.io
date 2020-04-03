@@ -1,0 +1,52 @@
+.col-centered{
+   float: none;
+   margin: 0 auto;
+}
+
+
+.carousel-item img{
+  min-width: 100%;
+  height: 500px;
+  max-width: none;
+}
+
+body {
+    background: url("/images/projectsBackground.png") repeat;
+}
+
+.story {
+  background-color: aliceblue;
+  text-indent: 5%;
+  text-align: left;
+  border-style: solid;
+  padding: 30px;
+  text-rendering: optimizeLegibility;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  margin-top: 15px;
+}
+
+.projectCard {
+  width: 800px;
+  margin: auto;
+}
+
+.container {
+  border-style: solid;
+  margin-bottom: 100px;
+}
+
+.title {
+  font-style: italic;
+  color: darkslategray;
+}
+
+.chaptertitle {
+  color: darkolivegreen;
+}
+
+.syn {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  font-size: large;
+}
