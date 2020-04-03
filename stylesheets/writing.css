@@ -29,7 +29,7 @@
 
  .list-group-item:hover {
     background-color: wheat;
-    color: blanchedalmond;
+    color: rgb(0, 0, 0);
  }
 
  .container {
@@ -44,4 +44,8 @@
     text-decoration: underline;
     text-transform: capitalize;
     font-family: 'Courier New', Courier, monospace;
+  }
+
+  i {
+    padding-left: 10px;
   }
