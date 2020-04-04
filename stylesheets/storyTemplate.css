@@ -32,7 +32,6 @@ body {
 }
 
 .container {
-  border-style: solid;
   margin-bottom: 100px;
 }
 
@@ -47,6 +46,5 @@ body {
 
 .syn {
   padding-top: 20px;
-  padding-bottom: 20px;
   font-size: large;
 }
