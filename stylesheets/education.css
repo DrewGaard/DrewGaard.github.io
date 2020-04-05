@@ -1,0 +1,19 @@
+.certs{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+}
+
+.certPic{
+    max-width: 100%;
+}
+
+hr{
+    border: solid;
+    border-width: 1px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    border-color: darkkhaki;
+}
